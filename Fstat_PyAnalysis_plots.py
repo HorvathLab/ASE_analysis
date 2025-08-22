@@ -12,7 +12,7 @@ from scipy.stats import kruskal
 df = pd.read_csv("./concat_annot_distr_filtered_snp157_germ.txt", sep='\t')  # Change this filename as needed
 print(df.head(2))
 # Long reads: concat_annot_distr_filtered_snp157_germ.txt
-# Short reeds: concat_28_VAF5_95_snp157_germ.txt
+# Short reads: concat_28_VAF5_95_snp157_germ.txt
 # Long reads novel: concat_annot_distr_filtered_VAF5_95_novel.txt
 
 
